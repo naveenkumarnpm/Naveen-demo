@@ -1,4 +1,4 @@
 # Naveen-demo
 This is demo project
 <br>
-Developer - Naveen Kumar
+Developer - Naveen Kumar Nayak
